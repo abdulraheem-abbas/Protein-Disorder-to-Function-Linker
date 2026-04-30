@@ -1,0 +1,4 @@
+accession,name,gene_name,organism,length,pct_disordered,n_disordered,n_functional_in_idr,n_ptm_in_idr,n_mutations_in_idr,n_variant_dense_windows,n_concordant_idr
+P46527,Cyclin-dependent kinase inhibitor 1B,CDKN1B,Homo sapiens,198,96.5,191,175,8,12,2,46
+P04637,Cellular tumor antigen p53,TP53,Homo sapiens,393,50.4,198,198,23,161,5,114
+P37840,Alpha-synuclein,SNCA,Homo sapiens,140,39.3,55,52,2,5,3,18

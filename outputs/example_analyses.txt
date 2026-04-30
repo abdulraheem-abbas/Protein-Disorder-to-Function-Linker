@@ -1,0 +1,49 @@
+============================================================
+  PROTEIN DISORDER-TO-FUNCTION LINKER
+  Example Analyses
+  Generated: 2026-04-30 17:54
+============================================================
+
+[1] TP53  (P04637)
+Tumour suppressor p53; hallmark of cancer biology with well-characterised disordered N- and C-terminal regions.
+------------------------------------------------------------
+  Protein name        : Cellular tumor antigen p53
+  Sequence length     : 393 aa
+  Molecular weight    : 43,652.7 Da
+  Isoelectric point   : 6.33
+  Disordered (≥0.5)  : 198 residues
+  IDR mutation residues: 161
+  UniProt variant annotations in IDRs: 161
+  Func. sites in IDRs : 198
+  Largest IDR mutation region: residues 33–97
+  Visualization       : outputs/P04637_plot.png
+
+
+[2] α-Synuclein (SNCA)  (P37840)
+Intrinsically disordered neuronal protein; aggregation drives Parkinson's and Lewy body diseases.
+------------------------------------------------------------
+  Protein name        : Alpha-synuclein
+  Sequence length     : 140 aa
+  Molecular weight    : 14,460.0 Da
+  Isoelectric point   : 4.67
+  Disordered (≥0.5)  : 55 residues
+  IDR mutation residues: 5
+  UniProt variant annotations in IDRs: 5
+  Func. sites in IDRs : 52
+  Largest IDR mutation region: residues 53–57
+  Visualization       : outputs/P37840_plot.png
+
+
+[3] p27 Kip1 (CDKN1B)  (P46527)
+Cell-cycle inhibitor (CDK2/Cyclin A); extensively disordered yet tightly regulated through binding-induced folding.
+------------------------------------------------------------
+  Protein name        : Cyclin-dependent kinase inhibitor 1B
+  Sequence length     : 198 aa
+  Molecular weight    : 22,073.0 Da
+  Isoelectric point   : 6.54
+  Disordered (≥0.5)  : 191 residues
+  IDR mutation residues: 12
+  UniProt variant annotations in IDRs: 12
+  Func. sites in IDRs : 175
+  Largest IDR mutation region: residues 10–15
+  Visualization       : outputs/P46527_plot.png

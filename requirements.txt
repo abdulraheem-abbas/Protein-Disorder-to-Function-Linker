@@ -1,0 +1,8 @@
+requests>=2.31.0
+matplotlib>=3.8.0
+numpy>=1.26.0
+biopython>=1.81
+plotly>=5.0.0
+streamlit>=1.30.0
+pandas>=2.0.0
+scipy>=1.10.0
